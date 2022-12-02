@@ -1,0 +1,4 @@
+echo 01-RUN.sh
+nano 01-RUN.sh
+"hola mundo"
+ls -l
